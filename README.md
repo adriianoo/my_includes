@@ -5,6 +5,7 @@ Insert the following lines into your PHP file to get a connection to your databa
 
 ```
 <?php
+// Order is important
 require("includes/config.inc.php");
 require("includes/common.inc.php");
 require("includes/db.inc.php");
