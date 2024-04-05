@@ -1,4 +1,4 @@
-# Get db connection
+# Get db connection (phpmyadmin)
 
 Open the config.inc.php file and replace "change-to-database-name" with the name of your database.<br>
 Insert the following lines into your PHP file to get a connection to your database:
